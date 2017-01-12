@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 .box {
-		background-color: #e5e7ea;
+		background-color: #475FFF;
 		height: 300px;
 		width: 250px;
 		border-radius: 10px;
@@ -11,7 +11,7 @@
 }
 
 .display {
-	background-color: #bfc4e;
+	background-color: #FF7F28;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -25,7 +25,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #bccd95;
+	background-color: #EB00FF;
 	font-size: 21px;
 	text-align: right;
 }
@@ -44,20 +44,20 @@
 	border-top: 2px solid transparent;
 }
 .button.function {
-	color: white;
-	background-color: #c64f81;
+	color: black;
+	background-color: #C2FF51;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 .button.operator {
-	color: white;
-	background-color: #4d5966;
+	color: black;
+	background-color: #FFC14E;
 	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 
 .function:active{
-	border-top: black 2px solid;
+	border-top: white 2px solid;
 	border-bottom: #303030 2px solid;
 	border-bottom: #303030 2px solid;
 }
